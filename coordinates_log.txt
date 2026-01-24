@@ -10,3 +10,4 @@ This file is automatically updated when players share coordinates.
 [Sun Jan 25 01:57:34 MSK 2026] KzaskU: -283, 69, 258 (Overworld)
 [Sun Jan 25 01:57:49 MSK 2026] Player342: 185, 75, -142 (Overworld)
 [Sun Jan 25 01:57:46 MSK 2026] KzaskU: -285, 69, 254 (Overworld)
+[Sun Jan 25 01:57:56 MSK 2026] KzaskU: -282, 69, 253 (Overworld)
