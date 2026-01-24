@@ -8,6 +8,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
+- KzaskU received invitation from Player625 at Sun Jan 25 02:09:27 MSK 2026
 - KzaskU came online at Sun Jan 25 02:09:12 MSK 2026
 - Player625 came online at Sun Jan 25 02:09:10 MSK 2026
 - ExamplePlayer created party at Sun Jan 25 02:08:38 MSK 2026
