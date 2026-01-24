@@ -7,6 +7,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
+- Player618 received invitation from Player618 at Sun Jan 25 01:15:15 MSK 2026
 - Player618 invited Player618 to party at Sun Jan 25 01:15:13 MSK 2026
 - Player618 came online at Sun Jan 25 01:14:32 MSK 2026
 - ExamplePlayer created party at Sun Jan 25 01:14:29 MSK 2026
