@@ -7,3 +7,4 @@ Format: [Timestamp] Player: X, Y, Z (Dimension)
 [Sun Jan 25 02:02:50 MSK 2026] TestPlayer: 500, 80, -1000 (Nether)
 
 This file is automatically updated when players share coordinates.
+[Sun Jan 25 02:03:13 MSK 2026] KzaskU: -277, 69, 254 (Overworld)
