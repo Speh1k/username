@@ -1,14 +1,12 @@
 === CordsDrop Players List ===
 
 Active Players:
-- hyesos (Online) - Joined at Sun Jan 25 01:32:25 MSK 2026
 - ExamplePlayer (Party Creator)
 - ExampleFriend (Party Member)
 - TestPlayer (Invited)
 
 Recent Activity:
-- hyesos came online at Sun Jan 25 01:32:25 MSK 2026
-- ExamplePlayer created party at Sun Jan 25 01:32:23 MSK 2026
+- ExamplePlayer created party at Sun Jan 25 01:43:20 MSK 2026
 - ExampleFriend joined party
 - TestPlayer received invitation
 
