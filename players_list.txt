@@ -8,6 +8,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
+- Player372 shared coordinates at Sun Jan 25 11:22:51 MSK 2026
 - Player372 joined party e69158c9-cb4b-48d4-8fa5-0a93377fe9bb at Sun Jan 25 11:22:46 MSK 2026
 - Player372 received invitation from Player168 at Sun Jan 25 11:22:56 MSK 2026
 - Player168 invited Player372 to party at Sun Jan 25 11:22:55 MSK 2026
