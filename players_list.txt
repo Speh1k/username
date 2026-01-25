@@ -1,24 +1,12 @@
 === CordsDrop Players List ===
 
 Active Players:
-- Player367 (Online) - Last seen at Sun Jan 25 12:02:30 MSK 2026
-- Player162 (Online) - Joined at Sun Jan 25 11:59:15 MSK 2026
 - ExamplePlayer (Party Creator)
 - ExampleFriend (Party Member)
 - TestPlayer (Invited)
 
 Recent Activity:
-- Player162 shared coordinates at Sun Jan 25 12:01:39 MSK 2026
-- Player162 shared coordinates at Sun Jan 25 12:01:23 MSK 2026
-- Player367 shared coordinates at Sun Jan 25 12:00:33 MSK 2026
-- Player162 shared coordinates at Sun Jan 25 12:00:10 MSK 2026
-- Player162 joined party 14637d71-b5e1-459f-a26d-f787c0151a9a at Sun Jan 25 11:59:57 MSK 2026
-- Player162 received invitation from Player367 at Sun Jan 25 12:00:06 MSK 2026
-- Player367 invited Player162 to party at Sun Jan 25 12:00:05 MSK 2026
-- Player162 received invitation from Player367 at Sun Jan 25 11:59:35 MSK 2026
-- Player367 invited Player162 to party at Sun Jan 25 11:59:33 MSK 2026
-- Player162 came online at Sun Jan 25 11:59:15 MSK 2026
-- ExamplePlayer created party at Sun Jan 25 11:59:13 MSK 2026
+- ExamplePlayer created party at Sun Jan 25 12:05:37 MSK 2026
 - ExampleFriend joined party
 - TestPlayer received invitation
 
