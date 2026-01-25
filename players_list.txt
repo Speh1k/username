@@ -8,6 +8,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
+- Player436 received invitation from Player898 at Sun Jan 25 12:15:12 MSK 2026
 - Player436 came online at Sun Jan 25 12:14:21 MSK 2026
 - ExamplePlayer created party at Sun Jan 25 12:14:30 MSK 2026
 - ExampleFriend joined party
