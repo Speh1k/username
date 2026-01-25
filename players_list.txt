@@ -8,7 +8,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
-- Player395 received invitation from Player48 at Sun Jan 25 11:30:25 MSK 2026
+- Player395 joined party f6a1d657-0b8a-4a0b-8aeb-5b0860668c22 at Sun Jan 25 11:30:10 MSK 2026
 - Player48 invited Player395 to party at Sun Jan 25 11:30:23 MSK 2026
 - Player395 came online at Sun Jan 25 11:29:49 MSK 2026
 - ExamplePlayer created party at Sun Jan 25 11:29:46 MSK 2026
