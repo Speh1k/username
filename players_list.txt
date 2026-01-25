@@ -8,6 +8,7 @@ Active Players:
 - TestPlayer (Invited)
 
 Recent Activity:
+- Player436 joined party 899af1ad-3cbb-401b-a579-73a11e8b0a3b at Sun Jan 25 12:12:04 MSK 2026
 - Player436 received invitation from Player892 at Sun Jan 25 12:12:17 MSK 2026
 - Player892 invited Player436 to party at Sun Jan 25 12:12:16 MSK 2026
 - Player436 came online at Sun Jan 25 12:11:42 MSK 2026
