@@ -2,12 +2,8 @@
 
 Format: [Timestamp] Player: X, Y, Z (Dimension)
 
-[Sun Jan 25 11:57:59 MSK 2026] ExamplePlayer: 100, 64, -200 (Overworld)
-[Sun Jan 25 11:57:59 MSK 2026] ExampleFriend: -50, 70, 150 (Overworld)
-[Sun Jan 25 11:57:59 MSK 2026] TestPlayer: 500, 80, -1000 (Nether)
+[Sun Jan 25 12:05:37 MSK 2026] ExamplePlayer: 100, 64, -200 (Overworld)
+[Sun Jan 25 12:05:37 MSK 2026] ExampleFriend: -50, 70, 150 (Overworld)
+[Sun Jan 25 12:05:37 MSK 2026] TestPlayer: 500, 80, -1000 (Nether)
 
 This file is automatically updated when players share coordinates.
-[Sun Jan 25 12:00:08 MSK 2026] Player162: -499, 83, 170 (Overworld)
-[Sun Jan 25 12:00:31 MSK 2026] Player367: -497, 83, 176 (Overworld)
-[Sun Jan 25 12:01:22 MSK 2026] Player162: -500, 83, 169 (Overworld)
-[Sun Jan 25 12:01:38 MSK 2026] Player162: -501, 83, 170 (Overworld)
