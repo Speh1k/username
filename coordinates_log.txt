@@ -8,3 +8,4 @@ Format: [Timestamp] Player: X, Y, Z (Dimension)
 
 This file is automatically updated when players share coordinates.
 [Sun Jan 25 11:50:50 MSK 2026] Player699: -501, 83, 170 (Overworld)
+[Sun Jan 25 11:51:18 MSK 2026] Player367: -191, 71, 306 (Overworld)
