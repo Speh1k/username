@@ -1,15 +1,12 @@
 === CordsDrop Players List ===
 
 Active Players:
-- Player930 (Online) - Server: singleplayer - Last seen at Sun Jan 25 21:13:21 MSK 2026
-- Player540 (Online) - Joined at Sun Jan 25 21:11:42 MSK 2026
 - ExamplePlayer (Party Creator)
 - ExampleFriend (Party Member)
 - TestPlayer (Invited)
 
 Recent Activity:
-- Player540 came online at Sun Jan 25 21:11:42 MSK 2026
-- ExamplePlayer created party at Sun Jan 25 21:11:13 MSK 2026
+- ExamplePlayer created party at Sun Jan 25 21:14:40 MSK 2026
 - ExampleFriend joined party
 - TestPlayer received invitation
 
