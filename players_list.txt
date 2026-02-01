@@ -1,6 +1,7 @@
 === CordsDrop Players List ===
 
 Active Players:
+- pipidastr (Online) - Server: hub.holyworld.ru - Last seen at Sun Feb 01 16:43:32 MSK 2026
 - ExamplePlayer (Party Creator)
 - ExampleFriend (Party Member)
 - TestPlayer (Invited)
